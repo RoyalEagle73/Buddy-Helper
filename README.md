@@ -1,5 +1,5 @@
 # Buddy-Helper
-A simple URL conversion tool for mentors at PrepBytes.
+A simple URL conversion tool for mentors at PrepBytes with wishes to mentors based on daytime.
 
 ## Copyrights
 This repo works extensively for prepbyte mentors and prepbytes holds all rights over this repo.
