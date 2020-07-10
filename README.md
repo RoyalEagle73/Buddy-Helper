@@ -11,10 +11,10 @@ Just drop URL in the url box, press ENTER and it'll lead you to a mentor-specifi
 ## URL
 [BuddyHelper](https://BuddyHelper.herokuapp.com)
 
-#### Give a star to this repo, if you liked this small work.
-
-#### Screenshot
+## Screenshot
 ![BuddyHelper](https://user-images.githubusercontent.com/34307370/87109690-dd0ed680-c254-11ea-95a2-97a20f60573d.png)
+
+## Give a star to this repo, if you liked this small work :).
 
 
 
